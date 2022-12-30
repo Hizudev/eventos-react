@@ -11,7 +11,7 @@ const App = () => {
     swal(
       `Buen Trabajo ${name}!`,
       "¡Lograste desbloquear al Ditto bailarín!",
-      "../src/assets/gif/party-dancing.gif"
+      "/src/assets/gif/party-dancing.gif"
     );
   };
 
